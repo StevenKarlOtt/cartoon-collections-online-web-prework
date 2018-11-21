@@ -12,7 +12,7 @@ def summon_captain_planet(planeteers)
 end
 
 def long_planeteer_calls(calls)
-  # code an argument here
+  calls.find? do 
   
 end
 
